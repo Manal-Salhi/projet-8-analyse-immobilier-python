@@ -1,6 +1,6 @@
 # 🏠 Analyse et prédiction des prix de l'immobilier à Paris avec Python
 
-*Projet 8 de la formation **Business Intelligence Analyst** – OpenClassrooms*
+*Projet 8 de la formation **Business Intelligence Analyst** – OpenClassrooms · Projet validé*
 
 ## 🎯 Contexte et objectif
 
